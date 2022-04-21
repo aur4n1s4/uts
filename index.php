@@ -21,7 +21,6 @@ $meninggal = '-';
 $nama = 'Nama Operator';
 $nim = 'NIM';
 if (isset($_POST['simpan'])) {
-
      $wilayah = trim($_POST['wilayah']);
      $positif = trim($_POST['positif']);
      $dirawat = trim($_POST['rawat']);
